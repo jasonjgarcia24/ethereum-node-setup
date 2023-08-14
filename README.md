@@ -12,6 +12,7 @@ Additionally, we will cover the installation of Geth and storage of the blockcha
 
 -   <b>Machine</b>: Ubuntu 22.04.3 LTS
 -   <b>Golang version</b>: go1.18.1 linux/amd64
+-   <b>Rust version</b>: 1.64.0 (a55dd71d5 2022-09-19)
 -   <b>Geth version</b>: 1.12.2-stable-bed84606
 
 ## Install Prerequisites
